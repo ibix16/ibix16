@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibix16
+- 👋 Hi, I’m @ibix16 , he/him
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning something cool!
 
