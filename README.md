@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ibix16 , he/him
 - 👀 I’m interested in Full Stack Development and Machine Learning
 - 🌱 I’m currently learning something cool!
+- 📲 You can reach me at https://www.linkedin.com/in/ivanRivera1605/
 
 <!---
 ibix16/ibix16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
