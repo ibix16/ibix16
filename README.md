@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ibix16 , he/him
 - 👀 I’m interested in Full Stack Development and Machine Learning
-- 🌱 I’m currently learning something cool!
 - 📲 You can reach me at https://www.linkedin.com/in/ivanRivera1605/
 
 <!---
